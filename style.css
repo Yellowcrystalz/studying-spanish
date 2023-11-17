@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 200px auto;
+}
+
+#vocab {
+    margin: 10px 0;
+}
+
+.answer-box {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+#btn {
+    padding: 8px 16px;
+    margin: 10px 0 0 0;
+}

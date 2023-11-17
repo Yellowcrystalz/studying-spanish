@@ -1,0 +1,637 @@
+[
+    {
+        "name": "acercarse",
+        "conjugation": [
+            "me acerqué",
+            "te acercaste",
+            "se acercó",
+            "nos acercamos",
+            "se acercaron"
+        ],
+        "definition": "to approach"
+    },
+
+    {
+        "name": "criarse",
+        "conjugation": [
+            "me crie",
+            "te criaste",
+            "se crio",
+            "nos criamos",
+            "se criaron"
+        ],
+        "definition": "to be raised"
+    },
+
+    {
+        "name": "dar",
+        "conjugation": ["di", "diste", "dio", "dimos", "dieron"],
+        "definition": "to give"
+    },
+
+    {
+        "name": "decir",
+        "conjugation": ["dije", "dijiste", "dijo", "dijimos", "dijeron"],
+        "definition": "to say"
+    },
+
+    {
+        "name": "encantar",
+        "conjugation": [
+            "encanté",
+            "encantaste",
+            "encantó",
+            "encantamos",
+            "encantaron"
+        ],
+        "definition": "to love"
+    },
+
+    {
+        "name": "especializarse",
+        "conjugation": [
+            "me especialicé",
+            "te especializaste",
+            "se especializó",
+            "nos especializamos",
+            "se especializaron"
+        ],
+        "definition": "to specialize"
+    },
+
+    {
+        "name": "estar",
+        "conjugation": [
+            "estuve",
+            "estuviste",
+            "estuvo",
+            "estuvimos",
+            "estuvieron"
+        ],
+        "definition": "to be"
+    },
+
+    {
+        "name": "graduarse",
+        "conjugation": [
+            "me gradué",
+            "te graduaste",
+            "se graduó",
+            "nos graduamos",
+            "se graduaron"
+        ],
+        "definition": "to graduate"
+    },
+
+    {
+        "name": "gustar",
+        "conjugation": ["gusté", "gustaste", "gustó", "gustamos", "gustaron"],
+        "definition": "to like"
+    },
+
+    {
+        "name": "haber",
+        "conjugation": ["hube", "hubiste", "hubo", "hubimos", "hubieron"],
+        "definition": "there is"
+    },
+
+    {
+        "name": "hacer",
+        "conjugation": ["hice", "hiciste", "hizo", "hicimos", "hicieron"],
+        "definition": "to do; to make"
+    },
+
+    {
+        "name": "interesar",
+        "conjugation": [
+            "interesé",
+            "interesaste",
+            "interesó",
+            "interesamos",
+            "interesaron"
+        ],
+        "definition": "to be interested"
+    },
+
+    {
+        "name": "ir",
+        "conjugation": ["fui", "fuiste", "fue", "fuimos", "fueron"],
+        "definition": "to go"
+    },
+
+    {
+        "name": "irse",
+        "conjugation": [
+            "me fui",
+            "te fuiste",
+            "se fue",
+            "nos fuimos",
+            "se fueron"
+        ],
+        "definition": "to leave"
+    },
+
+    {
+        "name": "llamarse",
+        "conjugation": [
+            "me llamé",
+            "te llamaste",
+            "se llamó",
+            "nos llamamos",
+            "se llamaron"
+        ],
+        "definition": "to be named"
+    },
+
+    {
+        "name": "nacer",
+        "conjugation": ["nací", "naciste", "nació", "nacimos", "nacieron"],
+        "definition": "to be born"
+    },
+
+    {
+        "name": "parecer",
+        "conjugation": [
+            "parecí",
+            "pareciste",
+            "pareció",
+            "parecimos",
+            "parecieron"
+        ],
+        "definition": "to seem"
+    },
+
+    {
+        "name": "pensar",
+        "conjugation": ["pensé", "pensaste", "pensó", "pensamos", "pensaron"],
+        "definition": "to think"
+    },
+
+    {
+        "name": "poder",
+        "conjugation": ["pude", "pudiste", "pudo", "pudimos", "pudieron"],
+        "definition": "to be able to"
+    },
+
+    {
+        "name": "poner",
+        "conjugation": ["puse", "pusiste", "puso", "pusimos", "pusieron"],
+        "definition": "to put"
+    },
+
+    {
+        "name": "quedar",
+        "conjugation": ["quedé", "quedaste", "quedó", "quedamos", "quedaron"],
+        "definition": "to be; to end up"
+    },
+
+    {
+        "name": "quedarse",
+        "conjugation": [
+            "me quedé",
+            "te quedaste",
+            "se quedó",
+            "nos quedamos",
+            "se quedaron"
+        ],
+        "definition": "to stay"
+    },
+
+    {
+        "name": "querer",
+        "conjugation": ["quise", "quisiste", "quiso", "quisimos", "quisieron"],
+        "definition": "to want"
+    },
+
+    {
+        "name": "recordar",
+        "conjugation": [
+            "recordé",
+            "recordaste",
+            "recordó",
+            "recordamos",
+            "recordaron"
+        ],
+        "definition": "to record"
+    },
+
+    {
+        "name": "reírse",
+        "conjugation": [
+            "me reí",
+            "te reíste",
+            "se rio",
+            "nos reímos",
+            "se rieron"
+        ],
+        "definition": "to laugh"
+    },
+
+    {
+        "name": "reunirse",
+        "conjugation": [
+            "me reuní",
+            "te reuniste",
+            "se reunió",
+            "nos reunimos",
+            "se reunieron"
+        ],
+        "definition": "to meet"
+    },
+
+    {
+        "name": "saber",
+        "conjugation": ["supe", "supiste", "supo", "supimos", "supieron"],
+        "definition": "to know"
+    },
+
+    {
+        "name": "salir",
+        "conjugation": ["salé", "saliste", "salió", "salimos", "salieron"],
+        "definition": "to leave"
+    },
+
+    {
+        "name": "seguir",
+        "conjugation": ["segué", "seguimos", "seguió", "seguimos", "seguieron"],
+        "definition": "to follow"
+    },
+
+    {
+        "name": "separarse",
+        "conjugation": [
+            "me separé",
+            "te separaste",
+            "se separó",
+            "nos separamos",
+            "se separaron"
+        ],
+        "definition": "to separate"
+    },
+
+    {
+        "name": "ser",
+        "conjugation": ["fui", "fuiste", "fue", "fuimos", "fueron"],
+        "definition": "to be"
+    },
+
+    {
+        "name": "soprenderse",
+        "conjugation": [
+            "me soprendí",
+            "te soprendiste",
+            "se sporendió",
+            "nos soprendimos",
+            "se soprendieron"
+        ],
+        "definition": "to be surprised"
+    },
+
+    {
+        "name": "tener",
+        "conjugation": ["tuve", "tuviste", "tuvo", "tuvimos", "tuvieron"],
+        "definition": "to have"
+    },
+
+    {
+        "name": "venir",
+        "conjugation": ["vine", "viniste", "vino", "vinimos", "vinieron"],
+        "definition": "to come"
+    },
+
+    {
+        "name": "ver",
+        "conjugation": ["vi", "viste", "vio", "vimos", "vieron"],
+        "definition": "to see"
+    },
+
+    {
+        "name": "volver",
+        "conjugation": ["volví", "volviste", "volvió", "volvimos", "volvieron"],
+        "definition": "to return"
+    },
+
+    {
+        "name": "acabar de",
+        "conjugation": ["acabé", "acabaste", "acabó", "acabamos", "acabaron"],
+        "definition": "to have just"
+    },
+
+    {
+        "name": "aceptar",
+        "conjugation": [
+            "acepté",
+            "aceptaste",
+            "aceptó",
+            "aceptamos",
+            "aceptaron"
+        ],
+        "definition": "to accept"
+    },
+
+    {
+        "name": "agachar",
+        "conjugation": [
+            "agaché",
+            "agachaste",
+            "agachó",
+            "agachamos",
+            "agacharon"
+        ],
+        "definition": "to crouch down"
+    },
+
+    {
+        "name": "aprender",
+        "conjugation": [
+            "aprendí",
+            "aprendiste",
+            "aprendió",
+            "aprendimos",
+            "aprendieron"
+        ],
+        "definition": "to learn"
+    },
+
+    {
+        "name": "asustar",
+        "conjugation": [
+            "asusté",
+            "asustaste",
+            "asustó",
+            "asustamos",
+            "asustaron"
+        ],
+        "definition": "to scare"
+    },
+
+    {
+        "name": "ayudar",
+        "conjugation": ["ayudé", "ayudaste", "ayudó", "ayudamos", "ayudaron"],
+        "definition": "to help"
+    },
+
+    {
+        "name": "cambiar",
+        "conjugation": [
+            "cambié",
+            "cambiaste",
+            "cambió",
+            "cambiamos",
+            "cambiaron"
+        ],
+        "definition": "to change"
+    },
+
+    {
+        "name": "conservar",
+        "conjugation": [
+            "conservé",
+            "conservaste",
+            "conservó",
+            "conservamos",
+            "conservaron"
+        ],
+        "definition": "to conserve"
+    },
+
+    {
+        "name": "correr",
+        "conjugation": ["corrí", "corriste", "corrió", "corrimos", "corrieron"],
+        "definition": "to run"
+    },
+
+    {
+        "name": "creer",
+        "conjugation": ["creí", "creiste", "creyó", "creimos", "creyeron"],
+        "definition": "to believe"
+    },
+
+    {
+        "name": "desovar",
+        "conjugation": [
+            "desové",
+            "desovaste",
+            "desovó",
+            "desovamos",
+            "desovaron"
+        ],
+        "definition": "to lay eggs"
+    },
+
+    {
+        "name": "empezar",
+        "conjugation": [
+            "empecé",
+            "empezaste",
+            "empezó",
+            "empezamos",
+            "empezaron"
+        ],
+        "definition": "to begin"
+    },
+
+    {
+        "name": "enseñar",
+        "conjugation": [
+            "enseñé",
+            "enseñaste",
+            "enseñó",
+            "enseñamos",
+            "enseñaron"
+        ],
+        "definition": "to teach"
+    },
+
+    {
+        "name": "escuchar",
+        "conjugation": [
+            "esuché",
+            "escuchaste",
+            "escuchó",
+            "escuchamos",
+            "escucharon"
+        ],
+        "definition": "to listen"
+    },
+
+    {
+        "name": "estudiar",
+        "conjugation": [
+            "estudié",
+            "estudiaste",
+            "estudió",
+            "estudiamos",
+            "estudiaron"
+        ],
+        "definition": "to study"
+    },
+
+    {
+        "name": "generar",
+        "conjugation": [
+            "generé",
+            "generaste",
+            "generó",
+            "generamos",
+            "generaron"
+        ],
+        "definition": "to generate"
+    },
+
+    {
+        "name": "hablar",
+        "conjugation": ["hablé", "hablaste", "habló", "hablamos", "hablaron"],
+        "definition": "to speak"
+    },
+
+    {
+        "name": "informar",
+        "conjugation": [
+            "informé",
+            "informaste",
+            "imformó",
+            "informamos",
+            "informaron"
+        ],
+        "definition": "to inform"
+    },
+
+    {
+        "name": "llegar",
+        "conjugation": ["llegué", "llegaste", "llegó", "llegamos", "llegaron"],
+        "definition": "to arrive"
+    },
+
+    {
+        "name": "mirar",
+        "conjugation": ["miré", "miraste", "miró", "miramos", "miraron"],
+        "definition": "to look at"
+    },
+
+    {
+        "name": "necesitar",
+        "conjugation": [
+            "necesité",
+            "necesitaste",
+            "necesitó",
+            "necesitamos",
+            "necesitaron"
+        ],
+        "definition": "to need"
+    },
+
+    {
+        "name": "observar",
+        "conjugation": [
+            "observé",
+            "observaste",
+            "observó",
+            "observamos",
+            "observaron"
+        ],
+        "definition": "to observe"
+    },
+
+    {
+        "name": "pintar",
+        "conjugation": ["pinté", "pintaste", "pintó", "pintamos", "pintaron"],
+        "definition": "to paint"
+    },
+
+    {
+        "name": "proteger",
+        "conjugation": [
+            "protegí",
+            "protegiste",
+            "protegió",
+            "protegimos",
+            "protegieron"
+        ],
+        "definition": "to protect"
+    },
+
+    {
+        "name": "regresar",
+        "conjugation": [
+            "regresé",
+            "regresaste",
+            "regresó",
+            "regresamos",
+            "regresaron"
+        ],
+        "definition": "to return"
+    },
+
+    {
+        "name": "sacar",
+        "conjugation": ["saqué", "sacaste", "sacó", "sacamos", "sacaron"],
+        "definition": "to take out"
+    },
+
+    {
+        "name": "salvar",
+        "conjugation": ["salvé", "salvaste", "salvó", "salvamos", "salvaron"],
+        "definition": "to save"
+    },
+
+    {
+        "name": "significar",
+        "conjugation": [
+            "signifiqué",
+            "significaste",
+            "significó",
+            "significamos",
+            "significaron"
+        ],
+        "definition": "to signify"
+    },
+
+    {
+        "name": "sufrir",
+        "conjugation": ["sufrí", "sufriste", "sufrió", "sufrimos", "sufrieron"],
+        "definition": "to suffer"
+    },
+
+    {
+        "name": "superar",
+        "conjugation": [
+            "superé",
+            "superaste",
+            "superó",
+            "superamos",
+            "superaron"
+        ],
+        "definition": "to overcome"
+    },
+
+    {
+        "name": "trabajar",
+        "conjugation": [
+            "trabajé",
+            "trabajaste",
+            "trabajó",
+            "trabajamos",
+            "trabajaron"
+        ],
+        "definition": "to work"
+    },
+
+    {
+        "name": "tratar",
+        "conjugation": ["traté", "trataste", "trató", "tratamos", "trataron"],
+        "definition": "to try to"
+    },
+
+    {
+        "name": "usar",
+        "conjugation": ["usé", "usaste", "usó", "usamos", "usaron"],
+        "definition": "to use"
+    },
+
+    {
+        "name": "vivir",
+        "conjugation": ["vivé", "viviste", "vivió", "vivimos", "vivieron"],
+        "definition": "to live"
+    }
+]
